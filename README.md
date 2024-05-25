@@ -66,8 +66,7 @@ The Todo List application allows users to manage their tasks efficiently. Users 
 - **Java Version**: 17
 - **Spring Boot Version**: 3.3.0
 - **Database**: MySQL (configured in application.properties)
-- **Frontend Integration**: This backend service is integrated with a React frontend. The frontend application can interact with the backend API endpoints to perform CRUD operations on todo items. [Frontend Repository](https://github.com/darshanbajgain)
-
+- **Frontend Integration**: This backend service is integrated with a React frontend. The frontend application can interact with the backend API endpoints to perform CRUD operations on todo items.For more information about the backend integration, refer to the [Frontend Repository](https://github.com/darshanbajgain/todo-app-frontend).
 
 
 ## Creator
